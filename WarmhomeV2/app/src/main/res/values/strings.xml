@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WarmHome</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="info_usuario">Información de usuario</string>
+    <string name="plano_casa">Plano</string>
+    <string name="nombre">Nombre del usuario: </string>
+    <string name="correo">Correo: </string>
+    <string name="proveedores">Proveedores: </string>
+    <string name="telefono">Telefono: </string>
+    <string name="ID">ID: </string>
+    <string name="acercaDe">Acerca de...</string>
+    <string name="textoAcercaDe">Este programa ha sido desarrollado como primera versión para el proyecto de IOT,en esta aplicaión se visualizara los datos de la temperatura, el timbre y del agua. Tambien vas a poder controlar la desde la aplicación la calefación las ventanas y la bañera de la casa.</string>
+</resources>

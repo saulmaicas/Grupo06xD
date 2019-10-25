@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WarmHome</string>
+    <string name="cerrar_sesion">Sign off</string>
+    <string name="info_usuario">User information</string>
+    <string name="plano_casa">House plan</string>
+    <string name="nombre">User name: </string>
+    <string name="correo">Email: </string>
+    <string name="proveedores">Suppliers: </string>
+    <string name="telefono">Phone: </string>
+    <string name="ID">ID: </string>
+    <string name="acercaDe">About of...</string>
+    <string name="textoAcercaDe">This program has been developed as the first version for the IOT project, in this application the temperature, bell and water data will be displayed. You will also be able to control the windows and the bathtub of the house from the application.</string>
+</resources>
