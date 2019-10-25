@@ -58,6 +58,12 @@ public class PlanoActivity extends AppCompatActivity {
             Intent intent = new Intent(this, MainActivity.class);
             startActivity(intent);
         }
+
+        if (id == R.id.acercaDe) {
+            Intent intent = new Intent(this, AcercaDe.class);
+            startActivity(intent);
+        }
+
         return super.onOptionsItemSelected(item);
     }
 }
